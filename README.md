@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Senior React Native Mobile Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+<h1 align="center">Hi, Senior Web & Mobile Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
 <div align="center">
   <a href="#"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="375px"/></a>
@@ -12,10 +12,11 @@
 
 ## 📖 About me
 
-* 💻 I'm a React Native developer
+* 💻 I'm a Web & Mobile developer
 * 📱   I make apps for Android and iOS
-* 🎓 I'm a Computer Science student (graduating in October 2021)
 * 📺 I make web development
+* 🎓 I'm a Computer Science student (graduating in October 2021)
+
 
 
 ## 📖 Core skills
